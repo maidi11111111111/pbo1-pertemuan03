@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d965443d-4a3d-4b0a-92cb-8fee802d8686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/OperasiString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d965443d-4a3d-4b0a-92cb-8fee802d8686" name="Default Changelist" comment="toUppercase untuk ...&#10;toLowercase untuk ...&#10;substring(5) untuk ...&#10;substring(0,4) untuk ...">
+      <change afterPath="$PROJECT_DIR$/src/operator/OperatorBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/OperasiString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,28 @@
       <option name="presentableId" value="Default" />
       <updated>1618286047208</updated>
     </task>
+    <task id="LOCAL-00001" summary="Buat Class OperasiString">
+      <created>1618288015342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618288015343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Membuat String dari array Char">
+      <created>1618288367267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618288367267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="toUppercase untuk ...&#10;toLowercase untuk ...&#10;substring(5) untuk ...&#10;substring(0,4) untuk ...">
+      <created>1618288776932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618288776932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +79,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Buat Class OperasiString" />
+    <MESSAGE value="Membuat String dari array Char" />
+    <MESSAGE value="toUppercase untuk ...&#10;toLowercase untuk ...&#10;substring(5) untuk ...&#10;substring(0,4) untuk ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="toUppercase untuk ...&#10;toLowercase untuk ...&#10;substring(5) untuk ...&#10;substring(0,4) untuk ..." />
   </component>
 </project>
